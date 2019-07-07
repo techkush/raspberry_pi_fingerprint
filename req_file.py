@@ -10,3 +10,5 @@ req_text = r.text
 data = json.loads(req_text)
 
 print(data['name'])
+
+lec fingerprint = 3a28ab5c879d24d67ce89f5f51a64f945b5967f0dab48510db4ab727130d6e61
